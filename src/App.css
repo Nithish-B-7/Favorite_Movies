@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+.font-style {
+  font-family: "DM Serif Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 5rem;
+  letter-spacing: 10px;
+  background: linear-gradient(to right, #b35dfe, #ffffff);
+  background-clip: text;
+  color: transparent;
+}
