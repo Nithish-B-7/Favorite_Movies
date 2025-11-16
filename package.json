@@ -33,8 +33,7 @@
     "react-router-dom": "^7.9.4",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.3.1",
-    "zod": "^4.1.12",
-    "@react-buddy/ide-toolbox": "^2.4.0"
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
